@@ -10,7 +10,7 @@
 
 **Description**
 
-A EZtravel web application was buy digital bus ticket system
+A EZTravel web application was buy digital bus ticket system
 
 ## Product Spec
 
