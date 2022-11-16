@@ -50,3 +50,5 @@ A EZtravel web application was buy digital bus ticket system
 3. **Navigation**
 
 4. **Schema**
+![eztravel-er](https://user-images.githubusercontent.com/60686091/202288937-ffe1d1e3-9cad-482d-8b73-987202ce1a20.png)
+
