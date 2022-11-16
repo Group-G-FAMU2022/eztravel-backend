@@ -20,7 +20,7 @@ A EZtravel web application was buy digital bus ticket system
 - Users are able to buy ticket and rating can be given about the trip 
 - Settings (change password, delete account, etc.)
 
-2. **Admin Stories (Required and Optional)**
+  **Admin Stories (Required and Optional)**
 **Required Must-have Stories**
 - Admin logs in to have the ability to view all buss, tickets, pricess, bus owners, routes, locations ect.
 - Admin are able to add new bus, pricess, owners, routes, locations.
@@ -28,7 +28,7 @@ A EZtravel web application was buy digital bus ticket system
 - Admin are able to search bus, pricess, owners, routes, locations
 - Settings (change password, etc.)
 
-3. **Screens**
+2. **Screens**
 **User**
 - Login
 - Sing Up
@@ -37,7 +37,7 @@ A EZtravel web application was buy digital bus ticket system
 - View Previous Tickets
 - Settings Screen
 
-**Admin**
+   **Admin**
 - Login
 - Bus Management
 - Owners Management
@@ -47,4 +47,6 @@ A EZtravel web application was buy digital bus ticket system
 - View Ticket
 - Settings Screen, ect...
 
-4. **Navigation**
+3. **Navigation**
+
+4. **Schema**
